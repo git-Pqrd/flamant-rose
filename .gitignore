@@ -19,7 +19,13 @@
 /*/.vscode
 back/venv/
 back/.config
-
+back/db_conf.py
+back/postgres*
+back/docker*
+back/env
+back/__pycache__/
+back/flamantrose/__pycache__
+back/flamantrose/templates/
 # Coverage reports
 /*/htmlcov/
 /*/.coverage
